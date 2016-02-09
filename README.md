@@ -1,6 +1,6 @@
 ![Final Rendering](img/light_test.png)
 
-# HotelLobby MV1
+# Art Deco Grand Hotel Lobby
 
 Dieses GitBook erläutert den Ablauf und die Schritte die ich unternommen habe, um die **HotelLobby** im Stil der Art Deko Ära zu kreieren. Das Projekt entstand im Rahmen des Moduls *Modellieren Virtueller Welten (MV1)* unter Leitung von Professor Dr. Cornelius Malerczyk an der Technischen Hochschule Mittelhessen am Campus Friedberg.
 
