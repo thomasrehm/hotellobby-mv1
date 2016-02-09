@@ -1,3 +1,3 @@
 # Idee
 
-Die Idee bzw. das Konzept 
+Die »Art Deco Grand Hotel Lobby« soll eine Hotel Lobby im Stile des Art Deco zeigen. T
