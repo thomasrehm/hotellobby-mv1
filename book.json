@@ -4,7 +4,11 @@
     ],
       "pluginsConfig": {
       "image-captions": {
-          "caption": "Abbildung - _CAPTION_"
-      }
+          "caption": "Abbildung _BOOK_IMAGE_NUMBER_ - _CAPTION_",
+          "variable_name": "pictures"
+      },
+      "variables": {
+        "pictures": []
+    }
   }
 }
