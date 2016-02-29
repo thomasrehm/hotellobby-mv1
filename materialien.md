@@ -93,17 +93,22 @@ Größe: 1500 x 1500 px
 Sekundäre Texturen (specular, normals) erzeugt mit CrazyBump
 
 ## 
-![Material ](images/kirschholz Kopie.png)
+![Material Palm](images/palm.png)
 
 **Verwendung:**
-
+Pflanzen in der Hotel Lobby
 
 **Renderzeit:**
-
+12:49
 (800*640 px in Prodution Quality [min:sec])
 
 **Besonderheiten:**
-
+Der Shader wurde direkt am Modell gerendert, damit die Maps richtig eingesetzt werden können.
+Der Pflanzentopf wurde mit dem Shader Marmor- Rot versehen
+Der "Körper" der Palme wurde mit einer Displacement-Map versehen, um diesen realistischer zu formen
 
 **Quellen:**
-
+Pflanzentopf aus einem Model von Archive3d.org (Siehe Abschnit )
+Palm 3D Model sowie Textur selbst ebenfalls von Archive3D (http://archive3d.net/?a=download&id=666c85a 4)
+Die Texturen, Normalmap und Alphamap wurden aus dem Modell übernommen und aufgearbeitet.
+Displacement-Map mit Crazybump erzeugt
