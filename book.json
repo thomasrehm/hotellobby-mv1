@@ -2,5 +2,9 @@
     "plugins": [
         "image-captions"
     ],
-    "pluginsConfig": {}
+      "pluginsConfig": {
+      "image-captions": {
+          "caption": "Abbildung - _CAPTION_"
+      }
+  }
 }
