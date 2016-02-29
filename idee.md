@@ -31,5 +31,6 @@ A fictional 1920's Hotel Lobby with two Entrances, Reception/Front Desk, six Ele
 **Materials**: 24
 
 ## Screenshots
-![Aufnahme ohne Decke](images/Bildschirmfoto 2015-10-31 um 12.10.14.png)
-![Aufnahme gegen die Blickrichtung](images/Bildschirmfoto 2015-10-31 um 11.48.36.png)
+![Screenshot Model ohne Decke](images/Bildschirmfoto 2015-10-31 um 12.10.14.png)
+
+![Screenshot Rückseite](images/Bildschirmfoto 2015-10-31 um 11.48.36.png)
