@@ -39,7 +39,7 @@ Datei: WoodFine0003_S.jpg
 Größe: 1024 * 729 px
 Bump Map mit CrazyBump erzeugt
 
-## 
+## Lampenfuss
 ![Material Lampenfuss](images/lampenfuss Kopie.png)
 
 **Verwendung:**
@@ -54,7 +54,7 @@ Für diesen Shader wird keine Textur oder Bump Map verwendet, da der Lampenfuss
 
 
 ## Leder
-![Material Leder](images/leder Kopie.png)
+![Material Leder](images/leather Kopie.png)
 
 **Verwendung:**
 Sessel in der Hotel Lobby
