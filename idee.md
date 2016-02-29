@@ -30,7 +30,27 @@ A fictional 1920's Hotel Lobby with two Entrances, Reception/Front Desk, six Ele
 
 **Materials**: 24
 
+Link: [https://3dwarehouse.sketchup.com/model.html?id=f45c590be18ab64ee9823b596dfb97bd](https://3dwarehouse.sketchup.com/model.html?id=f45c590be18ab64ee9823b596dfb97bd)
+
 ## Screenshots
-![Screenshot Model ohne Decke](images/Bildschirmfoto 2015-10-31 um 12.10.14.png)
+![Screenshot Modell ohne Decke](images/Bildschirmfoto 2015-10-31 um 12.10.14.png)
 
 ![Screenshot Rückseite](images/Bildschirmfoto 2015-10-31 um 11.48.36.png)
+
+## Modelle
+Weiterhin wurde das Basismodell um einige Ausstattungsgegenstände erweitert:
+
+![Sessel](images/sessel.jpg)
+Quelle: [http://archive3d.net/?a=download&id=6dffc037](http://archive3d.net/?a=download&id=6dffc037)
+
+![Pflanze](images/pflanze.jpg)
+Quelle: [http://archive3d.net/?a=download&id=666c85a4](http://archive3d.net/?a=download&id=6dffc037)
+
+![Blumentopf](images/topf.jpg)
+Quelle: [http://archive3d.net/?a=download&id=64b75a0d](http://archive3d.net/?a=download&id=64b75a0d)
+
+![Tisch](images/tisch.jpg)
+Quelle: [https://3dwarehouse.sketchup.com/model.html?id=u8c5ee64c-61a8-4fb3-a57b-3b46c4b5f7fc](https://3dwarehouse.sketchup.com/model.html?id=u8c5ee64c-61a8-4fb3-a57b-3b46c4b5f7fc)
+
+![Lampe](images/lampe.jpg)
+Quelle: [http://archive3d.net/?a=download&id=24e8b872](http://archive3d.net/?a=download&id=24e8b872)
