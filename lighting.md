@@ -1,2 +1,5 @@
-![](images/light_balancing.jpg)# Lighting
+# Lighting
+![Light Balancing](images/light_balancing.jpg)
+
+
 
