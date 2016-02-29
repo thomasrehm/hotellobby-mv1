@@ -108,7 +108,7 @@ Der Pflanzentopf wurde mit dem Shader Marmor- Rot versehen
 Der "Körper" der Palme wurde mit einer Displacement-Map versehen, um diesen realistischer zu formen
 
 **Quellen:**
-Pflanzentopf aus einem Model von Archive3d.org (Siehe Abschnitt [Idee](idee.md#))
+Pflanzentopf aus einem Model von Archive3d.org (Siehe Abschnitt [Idee](idee.md#Modelle))
 Palm 3D Model sowie Textur selbst ebenfalls von Archive3D (http://archive3d.net/?a=download&id=666c85a 4)
 Die Texturen, Normalmap und Alphamap wurden aus dem Modell übernommen und aufgearbeitet.
 Displacement-Map mit Crazybump erzeugt
