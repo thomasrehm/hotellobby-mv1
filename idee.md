@@ -1,4 +1,4 @@
-Das Thema des Moduls im Wintersemester 15/16 lautet **Architectual Public Interior** mit der Beschreibung: Visualisierung eines Innenraums entworfen und gebaut für eine öffentliche Verwendung
+Das Thema des Moduls im Wintersemester 2015/16 lautet **Architectual Public Interior** mit der Beschreibung: Visualisierung eines Innenraums entworfen und gebaut für eine öffentliche Verwendung
 
 # Idee
 
