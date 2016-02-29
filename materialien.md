@@ -156,7 +156,7 @@ Farbe/Putz an den Stellen der Wand, an der kein Marmor zum Einsatz kommt.
 **Renderzeit:**
 
 (800*640 px in Prodution Quality [min:sec])
-
+03:44
 **Besonderheiten:**
 Es soll keine Rein-Weiße Wand dargestellt werden, daher die Textur mit ihren leichten Einschlüssen und Dreck.
 
@@ -203,7 +203,7 @@ Um die Marmorstruktur zu Erreichen werden zwei Marble-Materials eingesetzt, bei 
 Lampenfuß und Couchtischbeine in der HotelLobby
 
 **Renderzeit:**
-
+03:17
 (800*640 px in Prodution Quality [min:sec])
 
 **Besonderheiten:**
