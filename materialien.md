@@ -3,7 +3,7 @@
 Um die Szene möglichst realistisch zu gestalten, wurden alle verwendeten Materialien von Grund auf kreiert. Im folgenden sind die wichtigsten Materialien aufgeführt.
 
 ## Gold-Patina
-![Material Gold](images/oldgold Kopie.png#Materi)
+![Material Gold](images/oldgold Kopie.png#Material)
 
 **Verwendung:**
 Goldverzierungen an den Wänden etc. in der Hotel Lobby
