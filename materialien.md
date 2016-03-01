@@ -23,7 +23,7 @@ Größe: 1024 * 1024 px
 Sekundäre Texturen ( normals) erzeugt mit CrazyBump
 
 ## Kirschholz
-![Material Kirschholz](images/kirschholz Kopie.png)
+![Material Kirschholz](images/kirschholz Kopie.png#Material)
 
 **Verwendung:**
 Holz der Reception in der Lobby. (Thresen)
@@ -40,7 +40,7 @@ Größe: 1024 * 729 px
 Bump Map mit CrazyBump erzeugt
 
 ## Lampenfuss
-![Material Lampenfuss](images/lampenfuss Kopie.png)
+![Material Lampenfuss](images/lampenfuss Kopie.png#Material)
 
 **Verwendung:**
 Material des Lampenfuss, der an 4 Stellen in der Hotel Lobby vorkommt
@@ -54,7 +54,7 @@ Für diesen Shader wird keine Textur oder Bump Map verwendet, da der Lampenfuss
 
 
 ## Leder
-![Material Leder](images/leather Kopie.png)
+![Material Leder](images/leather Kopie.png#Material)
 
 **Verwendung:**
 Sessel in der Hotel Lobby
@@ -73,7 +73,7 @@ Größe: 1024 * 1024 px
 Sekundäre Texturen (specular, height, normals) erzeugt mit CrazyBump
 
 ## Marmorboden
-![Material Marmorboden](images/marmorboden Kopie.png)
+![Material Marmorboden](images/marmorboden Kopie.png#Material)
 
 **Verwendung:**
 Marmor Fußboden in der Hotel Lobby
@@ -93,7 +93,7 @@ Größe: 1500 x 1500 px
 Sekundäre Texturen (specular, normals) erzeugt mit CrazyBump
 
 ## Palm
-![Material Palm](images/palm.png)
+![Material Palm](images/palm.png#Material)
 
 **Verwendung:**
 Pflanzen in der Hotel Lobby
@@ -115,7 +115,7 @@ Displacement-Map mit Crazybump erzeugt
 
 
 ## Tischholz (Kirschholz)
-![Material Kirschholz](images/kirschholz Kopie.png)
+![Material Kirschholz](images/kirschholz Kopie.png#Material)
 
 **Verwendung:**
 Tische in der Hotel Lobby
@@ -134,7 +134,7 @@ Größe: 1600 * 498 px
 
 
 ## Türglas
-![Material Türglas](images/tuerglas Kopie.png)
+![Material Türglas](images/tuerglas Kopie.png#Material)
 
 **Verwendung:**
 Milchiges Türglas in der Hotel Lobby.
@@ -148,7 +148,7 @@ Für diesen Shader wird keine Textur oder Bump Map verwendet
 
 
 ## Wandfarbe
-![Material Wandfarbe](images/wandfarbe Kopie.png)
+![Material Wandfarbe](images/wandfarbe Kopie.png#Material)
 
 **Verwendung:**
 Farbe/Putz an den Stellen der Wand, an der kein Marmor zum Einsatz kommt.
@@ -168,7 +168,7 @@ Bump Map mit CrazyBump erzeugt
 
 
 ## Wandmarmor Grün
-![Material Wandmarmor Grün](images/wandmarmor-gruen Kopie.png)
+![Material Wandmarmor Grün](images/wandmarmor-gruen Kopie.png#Material)
 
 **Verwendung:**
 Grüner Marmor für die Wände in der Hotel Lobby.
@@ -183,7 +183,7 @@ Um die Marmorstruktur zu Erreichen werden zwei Marble-Materials eingesetzt, bei 
 
 
 ## Wandmarmor Rot
-![Material Wandmarmor Rot](images/wandmarmor-rot Kopie.png)
+![Material Wandmarmor Rot](images/wandmarmor-rot Kopie.png#Material)
 
 **Verwendung:**
 Roter Marmor für die Wände und Blumentöpfe in der Hotel Lobby.
@@ -197,7 +197,7 @@ Für diesen Shader wird keine Textur oder Bump Map verwendet.
 Um die Marmorstruktur zu Erreichen werden zwei Marble-Materials eingesetzt, bei denen eins der Overall Color des FastSSS zugewiesen und eins der Subsurface Color des FastSSS Materials zugewiesen wird.
 
 ## Chrome
-![Material Chrome](images/chrome.png)
+![Material Chrome](images/chrome.png#Material)
 
 **Verwendung:**
 Lampenfuß und Couchtischbeine in der HotelLobby
