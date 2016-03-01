@@ -1,6 +1,6 @@
 # Rendering
 
-![Finales Rendering](images/lampe.png)
+![Finales Rendering](images/final_rendering.jpg)
 
 Das finale Rendering erfolgte nachdem alle Materialien in der Szene ausgetauscht wurden. Die Rendersettings wurde so eingestellt, um ein qualitativ hochwertiges Rendering zu erstellen, das möglichst wenig Rauschen enthält. So erlangt man eine gute Ausgangslage für das *Post Processing*.
 
