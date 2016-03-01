@@ -7,7 +7,7 @@ Dieses GitBook erläutert den Ablauf und die Schritte die ich unternommen habe, 
 
 ## Aufbau
 
-Um den Aufbau meines Renderings strukturiert zu erläutern, ist dieses Dokument in kleinere Abschnitte unterteilt. Zunächst zeige ich das fertige finale Rendering, danach erkläre ich in einzelnen Abschnitten welche Schritte dazu unternommen wurden:
+Um den Aufbau meines Renderings strukturiert zu erläutern, ist dieses Dokument in kleinere Abschnitte unterteilt. Nachdem ich hier das fertige finale Rendering gezeigt habe,  erkläre ich in einzelnen Abschnitten welche Schritte zur Realisierung unternommen wurden:
 
 
 * [Idee](idee.md)
