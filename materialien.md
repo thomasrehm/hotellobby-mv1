@@ -16,6 +16,10 @@ Goldverzierungen an den Wänden etc. in der Hotel Lobby
 Der Shader besteht aus mehreren einzelnen Vray Mtl und VrayBmp die mit einem VrayBlnd Material zusammengeführt wurden.
 Das Material soll eine Gold-Oberfläche mit Patina erzeugen, die ursprünglich mit Blattgott vergoldet wurde.
 
+**Sourceimages:**
+![Material Gold](images/oldgold Kopie.png#map)
+
+
 **Quellen:**
 Original-Textur (diffuse color) von www.textures.com
 Datei: BronzeCopper0037_1_S.jpg Textur ist seamless
