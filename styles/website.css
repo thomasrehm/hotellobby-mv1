@@ -1,14 +1,13 @@
-img[src$="Material"] { 
-    width: 500px; 
+img[src$="Material"] {
+    width: 500px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
-img[src$="map"] { 
-    width: 200px; 
+img[src$="map"] {
+    width: 150px;
     display: inline-block;
-    float: left;
     margin-left: auto;
     margin-right: auto;
 }

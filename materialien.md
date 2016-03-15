@@ -17,7 +17,8 @@ Der Shader besteht aus mehreren einzelnen Vray Mtl und VrayBmp die mit einem Vra
 Das Material soll eine Gold-Oberfläche mit Patina erzeugen, die ursprünglich mit Blattgott vergoldet wurde.
 
 **Sourceimages:**
-![Material Gold](images/shader-gold-patina/BronzeCopper0037_1_S_COLOR.png#map)
+
+![Material Gold - COLOR](images/shader-gold-patina/BronzeCopper0037_1_S_COLOR.png#map)
 ![Material Gold](images/shader-gold-patina/BronzeCopper0037_1_S_DISP.png#map)
 ![Material Gold](images/shader-gold-patina/BronzeCopper0037_1_S_NRM.png#map)
 ![Material Gold](images/shader-gold-patina/BronzeCopper0037_1_S_OCC.png#map)
