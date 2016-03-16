@@ -19,14 +19,12 @@ Das Material soll eine Gold-Oberfläche mit Patina erzeugen, die ursprünglich
 **Sourceimages:**
 
 ![Material Gold - COLOR](images/shader-gold-patina/BronzeCopper0037_1_S_COLOR.png#map)
-![Material Gold](images/shader-gold-patina/BronzeCopper0037_1_S_DISP.png#map)
-![Material Gold](images/shader-gold-patina/BronzeCopper0037_1_S_NRM.png#map)
-![Material Gold](images/shader-gold-patina/BronzeCopper0037_1_S_OCC.png#map)
-![Material Gold](images/shader-gold-patina/BronzeCopper0037_1_S_SPEC.png#map)
+
+![Material Gold – NRM](images/shader-gold-patina/BronzeCopper0037_1_S_NRM.png#map)
 
 
 **Quellen:**
-Original-Textur (diffuse color) von www.textures.com
+Original-Textur (diffuse color) von [www.textures.com](http://www.textures.com/download/bronzecopper0037/15872?q=BronzeCopper0037&filter=all)
 Datei: BronzeCopper0037_1_S.jpg Textur ist seamless
 Größe: 1024 * 1024 px
 Sekundäre Texturen ( normals) erzeugt mit CrazyBump
