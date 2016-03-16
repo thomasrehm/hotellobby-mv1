@@ -7,5 +7,9 @@
             "caption": "Abbildung _BOOK_IMAGE_NUMBER_: _CAPTION_",
             "variable_name": "pictures"
         }
+    },
+    "pdf": {
+        "headerTemplate": "_TITLE_",
+        "footerTemplate": "_PAGENUM_ – _TITLE_, _SECTION_."
     }
 }
