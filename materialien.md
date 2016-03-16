@@ -18,9 +18,9 @@ Das Material soll eine Gold-Oberfläche mit Patina erzeugen, die ursprünglich
 
 **Sourceimages:**
 
-![Material Gold - COLOR](images/shader-gold-patina/BronzeCopper0037_1_S_COLOR.jpg#map)
+![Material Gold - COLOR](images/shader-gold-patina/BronzeCopper0037_1_S_COLOR.jpg)
 
-![Material Gold – NRM](images/shader-gold-patina/BronzeCopper0037_1_S_NRM.jpg#map)
+![Material Gold – NRM](images/shader-gold-patina/BronzeCopper0037_1_S_NRM.jpg)
 
 
 

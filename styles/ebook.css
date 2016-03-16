@@ -5,7 +5,7 @@ img[src$="Material"] {
     margin-right: auto;
 }
 
-img[src$="map"] {
+img[src$="shader"] {
     width: 150px;
     display: block;
     margin-left: auto;
