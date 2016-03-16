@@ -1,13 +1,17 @@
-img[src$="Material"] {
-    width: 500px;
+img[alt*="Material"] {
+    width: 400px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
-img[src$="map"] {
+img[src*="shader"] {
     width: 150px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.fancy-image {
+  width: auto;
 }

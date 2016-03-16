@@ -1,11 +1,11 @@
-img[src$="Material"] {
+img[alt*="Material"] {
     width: 400px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
-img[src$="shader"] {
+img[src*="shader"] {
     width: 150px;
     display: block;
     margin-left: auto;

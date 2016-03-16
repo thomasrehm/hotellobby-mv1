@@ -3,7 +3,7 @@
 Um die Szene möglichst realistisch zu gestalten, wurden alle verwendeten Materialien von Grund auf kreiert. Im folgenden sind die wichtigsten Materialien aufgeführt.
 
 ## Gold-Patina
-![Material Gold](images/oldgold Kopie.png#Material)
+![Material Gold](images/oldgold Kopie.png)
 
 **Verwendung:**
 Goldverzierungen an den Wänden etc. in der Hotel Lobby
@@ -18,9 +18,9 @@ Das Material soll eine Gold-Oberfläche mit Patina erzeugen, die ursprünglich
 
 **Sourceimages:**
 
-![Material Gold - COLOR](images/shader-gold-patina/BronzeCopper0037_1_S_COLOR.jpg)
+![Gold - COLOR](images/shader-gold-patina/BronzeCopper0037_1_S_COLOR.jpg)
 
-![Material Gold – NRM](images/shader-gold-patina/BronzeCopper0037_1_S_NRM.jpg)
+![Gold – NRM](images/shader-gold-patina/BronzeCopper0037_1_S_NRM.jpg)
 
 
 
@@ -31,7 +31,7 @@ Größe: 1024 * 1024 px
 Sekundäre Texturen ( normals) erzeugt mit CrazyBump
 
 ## Kirschholz
-![Material Kirschholz](images/kirschholz Kopie.png#Material)
+![Material Kirschholz](images/kirschholz Kopie.png)
 
 **Verwendung:**
 Holz der Reception in der Lobby. (Thresen)
@@ -42,9 +42,9 @@ Holz der Reception in der Lobby. (Thresen)
 
 **Sourceimages:**
 
-![Material Kirschholz - COLOR](images/shader-kirschholz/WoodFine0003_S_COLOR.jpg#map)
+![Kirschholz - COLOR](images/shader-kirschholz/WoodFine0003_S_COLOR.jpg)
 
-![Material Kirschholz - NRM](images/shader-kirschholz/WoodFine0003_S_NRM.jpg#map)
+![Kirschholz - NRM](images/shader-kirschholz/WoodFine0003_S_NRM.jpg)
 
 
 
@@ -55,7 +55,7 @@ Größe: 1024 * 729 px
 Bump Map mit CrazyBump erzeugt
 
 ## Lampenfuss
-![Material Lampenfuss](images/lampenfuss Kopie.png#Material)
+![Material Lampenfuss](images/lampenfuss Kopie.png)
 
 **Verwendung:**
 Material des Lampenfuss, der an 4 Stellen in der Hotel Lobby vorkommt
@@ -69,7 +69,7 @@ Für diesen Shader wird keine Textur oder Bump Map verwendet, da der Lampenfuss
 
 
 ## Leder
-![Material Leder](images/leather Kopie.png#Material)
+![Material Leder](images/leather Kopie.png)
 
 **Verwendung:**
 Sessel in der Hotel Lobby
@@ -83,13 +83,13 @@ Die Farbe der original Textur wurde mittels Photoshop auf die gewünschte Rot-B
 
 **Sourceimage:**
 
-![Material Leder - Original](images/shader-leather/Leather0038_1_S.jpg#map)
+![Leder - Original](images/shader-leather/Leather0038_1_S.jpg)
 
-![Material Leder - COLOR](images/shader-leather/Leather0038_1_S_COLOR.jpg#map)
+![Leder - COLOR](images/shader-leather/Leather0038_1_S_COLOR.jpg)
 
-![Material Leder - NRM](images/shader-leather/Leather0038_1_S_NRM.jpg#map)
+![Leder - NRM](images/shader-leather/Leather0038_1_S_NRM.jpg)
 
-![Material Leder - SPEC](images/shader-leather/Leather0038_1_S_SPEC.jpg#map)
+![Leder - SPEC](images/shader-leather/Leather0038_1_S_SPEC.jpg)
 
 
 **Quellen:**
@@ -99,7 +99,7 @@ Größe: 1024 * 1024 px
 Sekundäre Texturen (specular, height, normals) erzeugt mit CrazyBump
 
 ## Marmorboden
-![Material Marmorboden](images/marmorboden Kopie.png#Material)
+![Material Marmorboden](images/marmorboden Kopie.png)
 
 **Verwendung:**
 Marmor Fußboden in der Hotel Lobby
@@ -114,15 +114,15 @@ Bei dem Vray Material handel es sich um ein FastSSS Material
 
 **Sourceimage:**
 
-![Material Marmorboden - Original](images/shader-floor/MarbleWhite0043_M.jpg#map)
+![Marmorboden - Original](images/shader-floor/MarbleWhite0043_M.jpg)
 
-![Material Marmorboden - Original](images/shader-floor/MarbleWhite0044_M.jpg#map)
+![Marmorboden - Original](images/shader-floor/MarbleWhite0044_M.jpg)
 
-![Material Marmorboden - COLOR](images/shader-floor/checker-maps_COLOR.jpg#map)
+![Marmorboden - COLOR](images/shader-floor/checker-maps_COLOR.jpg)
 
-![Material Marmorboden - NRM](images/shader-floor/checker-maps_NRM.jpg#map)
+![Marmorboden - NRM](images/shader-floor/checker-maps_NRM.jpg)
 
-![Material Marmorboden - SPEC](images/shader-floor/checker_neu_SPEC.jpg#map)
+![Marmorboden - SPEC](images/shader-floor/checker_neu_SPEC.jpg)
 
 
 **Quellen:**
@@ -132,7 +132,7 @@ Größe: 1500 x 1500 px
 Sekundäre Texturen (specular, normals) erzeugt mit CrazyBump
 
 ## Palm
-![Material Palm](images/palm.png#Material)
+![Material Palm](images/palm.png)
 
 **Verwendung:**
 Pflanzen in der Hotel Lobby
@@ -148,13 +148,13 @@ Der "Körper" der Palme wurde mit einer Displacement-Map versehen, um diesen re
 
 **Sourceimage:**
 
-![Material Palm - Original](images/shader-palm/AM113_064_Phoenic_canariensis_Color.jpg#map)
+![Palm - Original](images/shader-palm/AM113_064_Phoenic_canariensis_Color.jpg)
 
-![Material Palm - NRM](images/shader-palm/AM113_064_Phoenic_canariensis_NM.jpg#map)
+![Palm - NRM](images/shader-palm/AM113_064_Phoenic_canariensis_NM.jpg)
 
-![Material Palm - DISP](images/shader-palm/AM113_064_Phoenic_canariensis_Color_DISP_3.jpg#map)
+![Palm - DISP](images/shader-palm/AM113_064_Phoenic_canariensis_Color_DISP_3.jpg)
 
-![Material Palm - ALPHA](images/shader-palm/AM113_064_Phoenic_canariensis_alpha.jpg#map)
+![Palm - ALPHA](images/shader-palm/AM113_064_Phoenic_canariensis_alpha.jpg)
 
 
 
@@ -166,7 +166,7 @@ Displacement-Map mit Crazybump erzeugt
 
 
 ## Tischholz (Kirschholz)
-![Material Kirschholz](images/tischholz Kopie.png#Material)
+![Material Kirschholz](images/tischholz Kopie.png)
 
 **Verwendung:**
 Tische in der Hotel Lobby
@@ -180,7 +180,7 @@ Der Shader enthält nur die reine Textur und keine Bumpmap oder ähnliches, da
 
 **Sourceimage:**
 
-![Material Tischholz - Color](images/shader-tischholz/WoodFine0036_M.jpg#map)
+![Tischholz - Color](images/shader-tischholz/WoodFine0036_M.jpg)
 
 
 
@@ -191,7 +191,7 @@ Größe: 1600 * 498 px
 
 
 ## Türglas
-![Material Türglas](images/tuerglas Kopie.png#Material)
+![Material Türglas](images/tuerglas Kopie.png)
 
 **Verwendung:**
 Milchiges Türglas in der Hotel Lobby.
@@ -205,7 +205,7 @@ Für diesen Shader wird keine Textur oder Bump Map verwendet
 
 
 ## Wandfarbe
-![Material Wandfarbe](images/wandfarbe Kopie.png#Material)
+![Material Wandfarbe](images/wandfarbe Kopie.png)
 
 **Verwendung:**
 Farbe/Putz an den Stellen der Wand, an der kein Marmor zum Einsatz kommt.
@@ -219,9 +219,9 @@ Es soll keine Rein-Weiße Wand dargestellt werden, daher die Textur mit ihren le
 
 **Sourceimages:**
 
-![Material Wandfarbe - Color](images/shader-wandfarbe/PlasterWhite0149_1_S_COLOR.jpg#map)
+![Wandfarbe - Color](images/shader-wandfarbe/PlasterWhite0149_1_S_COLOR.jpg)
 
-![Material Wandfarbe - NRM](images/shader-wandfarbe/PlasterWhite0149_1_S_NRM.jpg#map)
+![Wandfarbe - NRM](images/shader-wandfarbe/PlasterWhite0149_1_S_NRM.jpg)
 
 
 
@@ -233,7 +233,7 @@ Bump Map mit CrazyBump erzeugt
 
 
 ## Wandmarmor Grün
-![Material Wandmarmor Grün](images/wandmarmor-gruen Kopie.png#Material)
+![Material Wandmarmor Grün](images/wandmarmor-gruen Kopie.png)
 
 **Verwendung:**
 Grüner Marmor für die Wände in der Hotel Lobby.
@@ -248,7 +248,7 @@ Um die Marmorstruktur zu Erreichen werden zwei Marble-Materials eingesetzt, bei 
 
 
 ## Wandmarmor Rot
-![Material Wandmarmor Rot](images/wandmarmor-rot Kopie.png#Material)
+![Material Wandmarmor Rot](images/wandmarmor-rot Kopie.png)
 
 **Verwendung:**
 Roter Marmor für die Wände und Blumentöpfe in der Hotel Lobby.
@@ -262,7 +262,7 @@ Für diesen Shader wird keine Textur oder Bump Map verwendet.
 Um die Marmorstruktur zu Erreichen werden zwei Marble-Materials eingesetzt, bei denen eins der Overall Color des FastSSS zugewiesen und eins der Subsurface Color des FastSSS Materials zugewiesen wird.
 
 ## Chrome
-![Material Chrome](images/chrome.png#Material)
+![Material Chrome](images/chrome.png)
 
 **Verwendung:**
 Lampenfuß und Couchtischbeine in der HotelLobby
@@ -277,7 +277,7 @@ mit Photoshop erstellte "Scratch"Textur um leichte kratzer im Chrome zu simulier
 
 **Sourceimages:**
 
-![Material Chrome - BUMP](images/shader-chrome/scratches_light.jpg#map)
+![Chrome - BUMP](images/shader-chrome/scratches_light.jpg)
 
 
 **Quellen:**
