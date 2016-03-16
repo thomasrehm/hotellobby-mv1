@@ -18,9 +18,9 @@ Das Material soll eine Gold-Oberfläche mit Patina erzeugen, die ursprünglich
 
 **Sourceimages:**
 
-![Gold - COLOR](images/shader-gold-patina/BronzeCopper0037_1_S_COLOR.jpg)
+![Gold - COLOR Map](images/shader-gold-patina/BronzeCopper0037_1_S_COLOR.jpg)
 
-![Gold – NRM](images/shader-gold-patina/BronzeCopper0037_1_S_NRM.jpg)
+![Gold – NRM Map](images/shader-gold-patina/BronzeCopper0037_1_S_NRM.jpg)
 
 
 
@@ -42,9 +42,9 @@ Holz der Reception in der Lobby. (Thresen)
 
 **Sourceimages:**
 
-![Kirschholz - COLOR](images/shader-kirschholz/WoodFine0003_S_COLOR.jpg)
+![Kirschholz - COLOR Map](images/shader-kirschholz/WoodFine0003_S_COLOR.jpg)
 
-![Kirschholz - NRM](images/shader-kirschholz/WoodFine0003_S_NRM.jpg)
+![Kirschholz - NRM Map](images/shader-kirschholz/WoodFine0003_S_NRM.jpg)
 
 
 
@@ -83,13 +83,13 @@ Die Farbe der original Textur wurde mittels Photoshop auf die gewünschte Rot-B
 
 **Sourceimage:**
 
-![Leder - Original](images/shader-leather/Leather0038_1_S.jpg)
+![Leder - Original Map](images/shader-leather/Leather0038_1_S.jpg)
 
-![Leder - COLOR](images/shader-leather/Leather0038_1_S_COLOR.jpg)
+![Leder - COLOR Map](images/shader-leather/Leather0038_1_S_COLOR.jpg)
 
-![Leder - NRM](images/shader-leather/Leather0038_1_S_NRM.jpg)
+![Leder - NRM Map](images/shader-leather/Leather0038_1_S_NRM.jpg)
 
-![Leder - SPEC](images/shader-leather/Leather0038_1_S_SPEC.jpg)
+![Leder - SPEC Map](images/shader-leather/Leather0038_1_S_SPEC.jpg)
 
 
 **Quellen:**
@@ -114,15 +114,15 @@ Bei dem Vray Material handel es sich um ein FastSSS Material
 
 **Sourceimage:**
 
-![Marmorboden - Original](images/shader-floor/MarbleWhite0043_M.jpg)
+![Marmorboden - Original Map](images/shader-floor/MarbleWhite0043_M.jpg)
 
-![Marmorboden - Original](images/shader-floor/MarbleWhite0044_M.jpg)
+![Marmorboden - Original Map](images/shader-floor/MarbleWhite0044_M.jpg)
 
-![Marmorboden - COLOR](images/shader-floor/checker-maps_COLOR.jpg)
+![Marmorboden - COLOR Map](images/shader-floor/checker-maps_COLOR.jpg)
 
-![Marmorboden - NRM](images/shader-floor/checker-maps_NRM.jpg)
+![Marmorboden - NRM Map](images/shader-floor/checker-maps_NRM.jpg)
 
-![Marmorboden - SPEC](images/shader-floor/checker_neu_SPEC.jpg)
+![Marmorboden - SPEC Map](images/shader-floor/checker_neu_SPEC.jpg)
 
 
 **Quellen:**
@@ -148,13 +148,13 @@ Der "Körper" der Palme wurde mit einer Displacement-Map versehen, um diesen re
 
 **Sourceimage:**
 
-![Palm - Original](images/shader-palm/AM113_064_Phoenic_canariensis_Color.jpg)
+![Palm - Original Map](images/shader-palm/AM113_064_Phoenic_canariensis_Color.jpg)
 
-![Palm - NRM](images/shader-palm/AM113_064_Phoenic_canariensis_NM.jpg)
+![Palm - NRM Map](images/shader-palm/AM113_064_Phoenic_canariensis_NM.jpg)
 
-![Palm - DISP](images/shader-palm/AM113_064_Phoenic_canariensis_Color_DISP_3.jpg)
+![Palm - DISP Map](images/shader-palm/AM113_064_Phoenic_canariensis_Color_DISP_3.jpg)
 
-![Palm - ALPHA](images/shader-palm/AM113_064_Phoenic_canariensis_alpha.jpg)
+![Palm - ALPHA Map](images/shader-palm/AM113_064_Phoenic_canariensis_alpha.jpg)
 
 
 
@@ -180,7 +180,7 @@ Der Shader enthält nur die reine Textur und keine Bumpmap oder ähnliches, da
 
 **Sourceimage:**
 
-![Tischholz - Color](images/shader-tischholz/WoodFine0036_M.jpg)
+![Tischholz - Color Map](images/shader-tischholz/WoodFine0036_M.jpg)
 
 
 
@@ -219,9 +219,9 @@ Es soll keine Rein-Weiße Wand dargestellt werden, daher die Textur mit ihren le
 
 **Sourceimages:**
 
-![Wandfarbe - Color](images/shader-wandfarbe/PlasterWhite0149_1_S_COLOR.jpg)
+![Wandfarbe - Color Map](images/shader-wandfarbe/PlasterWhite0149_1_S_COLOR.jpg)
 
-![Wandfarbe - NRM](images/shader-wandfarbe/PlasterWhite0149_1_S_NRM.jpg)
+![Wandfarbe - NRM Map](images/shader-wandfarbe/PlasterWhite0149_1_S_NRM.jpg)
 
 
 
@@ -277,7 +277,7 @@ mit Photoshop erstellte "Scratch"Textur um leichte kratzer im Chrome zu simulier
 
 **Sourceimages:**
 
-![Chrome - BUMP](images/shader-chrome/scratches_light.jpg)
+![Chrome - BUMP Map](images/shader-chrome/scratches_light.jpg)
 
 
 **Quellen:**

@@ -5,7 +5,7 @@ img[alt*="Material"] {
     margin-right: auto;
 }
 
-img[src*="shader"] {
+img[alt*="Map"] {
     width: 150px;
     display: block;
     margin-left: auto;
