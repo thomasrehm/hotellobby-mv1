@@ -12,6 +12,7 @@ img[src*="shader"] {
     margin-right: auto;
 }
 
-.fancy-image {
-  width: auto;
+
+.fancybox-image {
+  width: auto !important;
 }
