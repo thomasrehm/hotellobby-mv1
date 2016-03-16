@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "image-captions", "autocover"
+        "image-captions", "autocover", "fancybox"
     ],
     "pluginsConfig": {
         "image-captions": {

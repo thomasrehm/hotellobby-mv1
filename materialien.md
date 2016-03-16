@@ -23,6 +23,7 @@ Das Material soll eine Gold-Oberfläche mit Patina erzeugen, die ursprünglich
 ![Material Gold – NRM](images/shader-gold-patina/BronzeCopper0037_1_S_NRM.jpg#map)
 
 
+
 **Quellen:**
 Original-Textur (diffuse color) von [www.textures.com](http://www.textures.com/download/bronzecopper0037/15872?q=BronzeCopper0037&filter=all)
 Datei: BronzeCopper0037_1_S.jpg Textur ist seamless
@@ -42,7 +43,9 @@ Holz der Reception in der Lobby. (Thresen)
 **Sourceimages:**
 
 ![Material Kirschholz - COLOR](images/shader-kirschholz/WoodFine0003_S_COLOR.jpg#map)
+
 ![Material Kirschholz - NRM](images/shader-kirschholz/WoodFine0003_S_NRM.jpg#map)
+
 
 
 **Quellen:**
@@ -81,9 +84,13 @@ Die Farbe der original Textur wurde mittels Photoshop auf die gewünschte Rot-B
 **Sourceimage:**
 
 ![Material Leder - Original](images/shader-leather/Leather0038_1_S.jpg#map)
+
 ![Material Leder - COLOR](images/shader-leather/Leather0038_1_S_COLOR.jpg#map)
+
 ![Material Leder - NRM](images/shader-leather/Leather0038_1_S_NRM.jpg#map)
+
 ![Material Leder - SPEC](images/shader-leather/Leather0038_1_S_SPEC.jpg#map)
+
 
 **Quellen:**
 Original-Textur (diffuse color) von [www.textures.com](http://www.textures.com/download/leather0038/15215?q=Leather0038_1&filter=all)
@@ -108,10 +115,15 @@ Bei dem Vray Material handel es sich um ein FastSSS Material
 **Sourceimage:**
 
 ![Material Marmorboden - Original](images/shader-floor/MarbleWhite0043_M.jpg#map)
+
 ![Material Marmorboden - Original](images/shader-floor/MarbleWhite0044_M.jpg#map)
+
 ![Material Marmorboden - COLOR](images/shader-floor/checker-maps_COLOR.jpg#map)
+
 ![Material Marmorboden - NRM](images/shader-floor/checker-maps_NRM.jpg#map)
+
 ![Material Marmorboden - SPEC](images/shader-floor/checker_neu_SPEC.jpg#map)
+
 
 **Quellen:**
 Original-Textur (diffuse color) von www.textures.com
@@ -137,9 +149,13 @@ Der "Körper" der Palme wurde mit einer Displacement-Map versehen, um diesen re
 **Sourceimage:**
 
 ![Material Palm - Original](images/shader-palm/AM113_064_Phoenic_canariensis_Color.jpg#map)
+
 ![Material Palm - NRM](images/shader-palm/AM113_064_Phoenic_canariensis_NM.jpg#map)
+
 ![Material Palm - DISP](images/shader-palm/AM113_064_Phoenic_canariensis_Color_DISP_3.jpg#map)
+
 ![Material Palm - ALPHA](images/shader-palm/AM113_064_Phoenic_canariensis_alpha.jpg#map)
+
 
 
 **Quellen:**
@@ -165,6 +181,7 @@ Der Shader enthält nur die reine Textur und keine Bumpmap oder ähnliches, da
 **Sourceimage:**
 
 ![Material Tischholz - Color](images/shader-tischholz/WoodFine0036_M.jpg#map)
+
 
 
 **Quellen:**
@@ -203,7 +220,9 @@ Es soll keine Rein-Weiße Wand dargestellt werden, daher die Textur mit ihren le
 **Sourceimages:**
 
 ![Material Wandfarbe - Color](images/shader-wandfarbe/PlasterWhite0149_1_S_COLOR.jpg#map)
+
 ![Material Wandfarbe - NRM](images/shader-wandfarbe/PlasterWhite0149_1_S_NRM.jpg#map)
+
 
 
 **Quellen:**
@@ -259,6 +278,7 @@ mit Photoshop erstellte "Scratch"Textur um leichte kratzer im Chrome zu simulier
 **Sourceimages:**
 
 ![Material Chrome - BUMP](images/shader-chrome/scratches_light.jpg#map)
+
 
 **Quellen:**
 Original-Textur für Scratches ist mit Photoshop selbst erstellt
