@@ -21,12 +21,12 @@ zwei unterschiedliche Leuchtstärken bei mehreren Positionen
 ### Kronleuchter-Immitat
 **Anzahl:** 4
 
-**Watt der VrayLightSphere:** 
+**Watt der VrayLightSphere:**
 
 ### Zusätzliche Lampen als Aufhelllichter
 **Anzahl:** 4
 
-**Watt der VrayLightSphere:** 
+**Watt der VrayLightSphere:**
 
 
 

@@ -9,7 +9,6 @@
         }
     },
     "pdf": {
-        "headerTemplate": "_TITLE_",
-        "footerTemplate": "_PAGENUM_ – _TITLE_, _SECTION_."
+        "footerTemplate": "_PAGENUM_ – _TITLE_ _SECTION_"
     }
 }
