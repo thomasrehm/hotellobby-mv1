@@ -1,5 +1,5 @@
 # Lighting
-![Light Balancing](images/light_balancing.jpg)
+![Light Balancing](images/lightbalancing.png)
 
 Um die gewünschte Lichtstimmung zu realisieren, werden mehrere kleinere Steh-Lampen eingesetzt. Dazu wird die Szene von vier kleinen Lichtquellen knapp unter der Decke erleuchtet, die eine Art Kronleuchter immitieren sollen. Durch mehrere Lichtquellen erscheinen die Schatten nicht zu kantig.
 
@@ -33,11 +33,9 @@ zwei unterschiedliche Leuchtstärken bei mehreren Positionen
 
 
 ### Zusätzliche Lampen als Aufhelllichter
-(grüne und rote Markierungen im Screenshot)
-**Anzahl:** 5
+**Anzahl:** 5 (grüne und rote Markierungen im Screenshot)
 
 **VrayLightSphere:**
 2 Watt, 4000 K, Radius 2.0
 
-
-
+Zusätzlich 2 VrayLightRect Flächen (je 10x10 Groß, 1 Watt, 2132 K) zur Beleuchtung des Gangs hinter der Glasscheibe zum "Frühstücksraum" (linke Seite im Bild, siehe Rendering)
