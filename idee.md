@@ -4,7 +4,7 @@ Das Thema des Moduls im Wintersemester 2015/16 lautet **Architectual Public Inte
 
 Ziel des Projekts ist eine Hotel Lobby im Stile des Art Deco. Dabei handelt es sich zeitlich um die 20er bis 40er Jahre des 20. Jahrhunderts.
 
-Dabei soll der Eindruck entstehen, man befindet sich zu später Abendstunde in einer Hotel Lobby, ein hoher Raum mit gediegener Ausstattung, Gäste unterhalten sich in entspannter Atmosphäre. 
+Dabei soll der Eindruck entstehen, man befindet sich zu später Abendstunde in einer Hotel Lobby, ein hoher Raum mit gediegener Ausstattung, Gäste unterhalten sich in entspannter Atmosphäre.
 
 # Basismodell
 
@@ -53,3 +53,28 @@ Quelle: [https://3dwarehouse.sketchup.com/model.html?id=u8c5ee64c-61a8-4fb3-a57b
 
 ![Lampe](images/lampe.jpg)
 Quelle: [http://archive3d.net/?a=download&id=24e8b872](http://archive3d.net/?a=download&id=24e8b872)
+
+
+## Cut-Outs für die Post-Produktion
+**Menschen:**
+
+Cutout Woman Sitting 0037 by mrcutout.com
+
+![Cutout Woman Sitting 0037 by mrcutout.com](images/cutouts/www.mrcutout.com---A-lot-more-cutouts-like-this-one!---woman-sitting-0037-medium.png)
+
+Quelle:[http://www.mrcutout.com/index.php/component/content/article/78-cutouts/people-cutouts/1273-woman-sitting-0037](http://www.mrcutout.com/index.php/component/content/article/78-cutouts/people-cutouts/1273-woman-sitting-0037)
+
+Cutout Man Sitting 0018 by mrcutout.com
+
+![Cutout Man Sitting 0018 by mrcutout.com](images/cutouts/www.mrcutout.com---A-lot-more-cutouts-like-this-one!---man-sitting-0018-medium.png)
+
+Quelle: [http://www.mrcutout.com/index.php/component/content/article/78-cutouts/people-cutouts/846-man-sitting-0018](http://www.mrcutout.com/index.php/component/content/article/78-cutouts/people-cutouts/846-man-sitting-0018)
+
+
+Cutout Man Standing and Talking (Freebie from ronenbekerman.com)
+
+![Cutout Man Standing and Talking](images/cutouts/05.png)
+
+Quelle: [http://www.ronenbekerman.com/10-free-2d-cutout-people/](http://www.ronenbekerman.com/10-free-2d-cutout-people/)
+
+
