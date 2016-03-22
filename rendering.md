@@ -2,11 +2,11 @@
 
 ![Finales Rendering](images/finalrendering.jpg)
 
-Das finale Rendering erfolgte nachdem alle sichtbaren Materialien in der Szene ausgetauscht wurden. Die Rendersettings wurde so eingestellt, um ein qualitativ hochwertiges Rendering zu erstellen, das möglichst wenig Rauschen enthält. So erlangt man eine gute Ausgangslage für das *Post Processing*.
+Das finale Rendering erfolgte nachdem alle sichtbaren Materialien in der Szene ausgetauscht wurden. Die Rendersettings wurde so eingestellt, um ein qualitativ hochwertiges Rendering zu erstellen, das möglichst wenig Rauschen enthält. So erlangt man eine gute Ausgangslage für die *Post Production*.
 
 Um das finale Bild zu Rendern kam ein Computer mit den folgenden Daten zum Einsatz:
 
-* Prozessor: Intel i7-870 (4 Kerne, 8 Threads @2,93GHz)
+* Prozessor: Intel i7-870 (4 Kerne, 8 Threads @ 2,93GHz)
 * RAM: 4GB
 * OS: Windows 7 64bit Professional
 * Grafikkarte: ATI Radeon HD 6800

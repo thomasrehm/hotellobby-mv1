@@ -1,9 +1,11 @@
 # Post Production
 
-![Post-Production Stages GIF](images/postprocessingstages/postprocessingstages.gif)
+![Final Image](images/finalImage.jpg)
 
 In der Post-Production wurde dem Rendering finale Schliff verliehen. Neben farblichen Anpassungen, leichter Unschärfe und Bild-Verschlechterungen für mehr Realismus, wurden auch CutOuts eingefügt um Leben in die Szene zu bringen.
 
+
+![Post-Production Stages GIF](images/postprocessingstages/postprocessingstages.gif)
 
 ![Post-Production Stages - Basis Rendering](images/postprocessingstages/postprocessingstages-1.jpg)
 

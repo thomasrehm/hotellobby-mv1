@@ -40,18 +40,23 @@ Link: [https://3dwarehouse.sketchup.com/model.html?id=f45c590be18ab64ee9823b596d
 Weiterhin wurde das Basismodell um einige Ausstattungsgegenstände erweitert:
 
 ![Sessel](images/sessel.jpg)
+
 Quelle: [http://archive3d.net/?a=download&id=6dffc037](http://archive3d.net/?a=download&id=6dffc037)
 
 ![Pflanze](images/pflanze.jpg)
+
 Quelle: [http://archive3d.net/?a=download&id=666c85a4](http://archive3d.net/?a=download&id=6dffc037)
 
 ![Blumentopf](images/topf.jpg)
+
 Quelle: [http://archive3d.net/?a=download&id=64b75a0d](http://archive3d.net/?a=download&id=64b75a0d)
 
 ![Tisch](images/tisch.jpg)
+
 Quelle: [https://3dwarehouse.sketchup.com/model.html?id=u8c5ee64c-61a8-4fb3-a57b-3b46c4b5f7fc](https://3dwarehouse.sketchup.com/model.html?id=u8c5ee64c-61a8-4fb3-a57b-3b46c4b5f7fc)
 
 ![Lampe](images/lampe.jpg)
+
 Quelle: [http://archive3d.net/?a=download&id=24e8b872](http://archive3d.net/?a=download&id=24e8b872)
 
 
@@ -77,4 +82,9 @@ Cutout Man Standing and Talking (Freebie from ronenbekerman.com)
 
 Quelle: [http://www.ronenbekerman.com/10-free-2d-cutout-people/](http://www.ronenbekerman.com/10-free-2d-cutout-people/)
 
+Whisky-Glas mit Flasche
+
+![Whisky-Glas mit Flasche](images/cutouts/service-359183.png)
+
+Quelle: [https://pixabay.com/de/service-flasche-alkohol-brille-359183/](https://pixabay.com/de/service-flasche-alkohol-brille-359183/)
 
