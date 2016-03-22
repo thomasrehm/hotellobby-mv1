@@ -1,6 +1,6 @@
 Link zum GitBook: [thomasrehm.gitbooks.io/hotellobby-mv1/content/index.html](https://thomasrehm.gitbooks.io/hotellobby-mv1/content/index.html)
 
-![Final Rendering](img/light_test.png)
+![Final Image](img/finalImage.jpg)
 
 # Art Deco Grand Hotel Lobby
 
